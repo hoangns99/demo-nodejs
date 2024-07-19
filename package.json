@@ -1,0 +1,11 @@
+{
+  "name": "demo-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hoangns99/demo-nodejs.git",
+  "author": "hoangns99 <hoangns99.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
