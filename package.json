@@ -5,6 +5,9 @@
   "repository": "https://github.com/hoangns99/demo-nodejs.git",
   "author": "hoangns99 <hoangns99.dev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
