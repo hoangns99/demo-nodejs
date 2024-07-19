@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8a31a0b8-0265-4ff6-b459-e0f6a4422ff6/resourceGroups/nodejsbe_group-a98f/providers/Microsoft.Web/sites/nodejsbe",
+    "appService.deploySubpath": "."
+}
